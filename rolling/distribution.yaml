@@ -94,6 +94,12 @@ repositories:
       url: https://github.com/ros-acceleration/adaptive_component.git
       version: rolling
     status: developed
+  ads_vendor:
+    source:
+      type: git
+      url: https://github.com/b-robotized/ads_vendor.git
+      version: rolling
+    status: developed
   adi_iio:
     doc:
       type: git
