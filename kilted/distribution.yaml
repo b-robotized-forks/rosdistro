@@ -793,7 +793,7 @@ repositories:
       packages:
       - beckhoff_ads_bringup
       - beckhoff_ads_hardware_interface
-      url: https://github.com/b-robotized/beckhoff_ads_hardware_interface.git
+      url: https://github.com/b-robotized/beckhoff_ads_driver.git
       version: kilted
     status: maintained
   behaviortree_cpp_v4:
